@@ -3,7 +3,7 @@
 ![preview](./.github/preview.png)
 
 
-[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Login7/)
+[🔗 Clique aqui para acessar](https://leonardo21042006.github.io/Tela-Login-7/)
 
 ## 🛠️ Tecnologias 
 
